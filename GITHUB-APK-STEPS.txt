@@ -1,0 +1,6 @@
+APK banane ke steps (bina Android Studio ke):
+1. github.com par free account banao -> New repository (Private) -> naam: bf-attendance
+2. Is poore folder ki files upload karo ("uploading an existing file"). .github folder bhi upload hona chahiye.
+3. Repository mein "Actions" tab kholo -> "Build APK" -> kuch minute wait (green tick).
+4. Us run par click karo -> neeche "Artifacts" mein BF-Brothers-Attendance-APK download karo (zip, andar app-release.apk).
+5. APK mobile par bhejo, install karo (Settings mein "Install unknown apps" allow karna hoga).
